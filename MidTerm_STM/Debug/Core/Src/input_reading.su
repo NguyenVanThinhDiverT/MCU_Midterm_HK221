@@ -1,0 +1,7 @@
+input_reading.c:23:6:getKeyInput	16	static
+input_reading.c:60:15:is_button_pressed	16	static
+input_reading.c:68:15:is_button_pressed_3s	16	static
+input_reading.c:73:5:which_button_press	16	static
+input_reading.c:81:5:which_button_press3s	16	static
+input_reading.c:89:5:press_or_press3s	16	static
+input_reading.c:102:5:press_release	16	static

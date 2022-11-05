@@ -1,0 +1,5 @@
+SOFTWARETIMER.c:15:6:setTimer1	16	static
+SOFTWARETIMER.c:20:6:setTimer2	16	static
+SOFTWARETIMER.c:25:6:clearTimer1	4	static
+SOFTWARETIMER.c:29:6:clearTimer2	4	static
+SOFTWARETIMER.c:34:6:timerRun	4	static

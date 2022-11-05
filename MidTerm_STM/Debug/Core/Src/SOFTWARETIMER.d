@@ -1,0 +1,4 @@
+Core/Src/SOFTWARETIMER.o: ../Core/Src/SOFTWARETIMER.c \
+ ../Core/Inc/SOFTWARE_TIMER.h
+
+../Core/Inc/SOFTWARE_TIMER.h:
